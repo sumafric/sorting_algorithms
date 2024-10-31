@@ -5,8 +5,8 @@
 /**
  * create_listint - Creates a doubly linked list from an array of integers
  *
- * @array: Array to convert to a doubly linked list
- * @size: Size of the array
+ * @array: convertion for array to a doubly linked list
+ * @size: array size
  *
  * Return: Pointer to the first element of the created list. NULL on failure
  */
